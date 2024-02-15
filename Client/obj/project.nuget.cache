@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+T8/bf0YDx5RobFDG+0HPnBoo/frzPhYkF+7287/LR5EuZrZ1JTrrSNUtig9B8JSlip3scYbog6hUUYS+0JZqA==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\MultiplayerGame\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\callu\\.nuget\\packages\\csfml\\2.5.2\\csfml.2.5.2.nupkg.sha512",
+    "C:\\Users\\callu\\.nuget\\packages\\sfml.audio\\2.5.1\\sfml.audio.2.5.1.nupkg.sha512",
+    "C:\\Users\\callu\\.nuget\\packages\\sfml.graphics\\2.5.1\\sfml.graphics.2.5.1.nupkg.sha512",
+    "C:\\Users\\callu\\.nuget\\packages\\sfml.net\\2.5.1\\sfml.net.2.5.1.nupkg.sha512",
+    "C:\\Users\\callu\\.nuget\\packages\\sfml.system\\2.5.1\\sfml.system.2.5.1.nupkg.sha512",
+    "C:\\Users\\callu\\.nuget\\packages\\sfml.window\\2.5.1\\sfml.window.2.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
