@@ -186,3 +186,4 @@ C:\dev\MultiplayerGame\Client\obj\Debug\net8.0\refint\Client.dll
 C:\dev\MultiplayerGame\Client\obj\Debug\net8.0\Client.pdb
 C:\dev\MultiplayerGame\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
 C:\dev\MultiplayerGame\Client\obj\Debug\net8.0\ref\Client.dll
+C:\dev\MultiplayerGame\Client\obj\Debug\net8.0\Client.sourcelink.json
